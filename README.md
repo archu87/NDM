@@ -24,7 +24,7 @@ The most common bacteria that make this enzyme are Gram-negative such as Escheri
 
 <a href="#Protocol">
 # Protocol
-<p align="justify"> Step by step process for NDM gene analysis. After identification of presence of NDM the whole genome sequencing of bacteria have been done using Illumina sequencing. </p>
+<p align="justify"> Step by step process for NDM gene analysis. After identification of presence of NDM by wet lab; the whole genome sequencing of bacteria have been done using Illumina sequencing. </p>
 <ul>
 <li>Step 1: Quality check of raw data using FastQC tool.</li>
 <li>Step 2: Run SPADES for assembly purpose.</li>
