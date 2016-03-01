@@ -31,5 +31,5 @@ The most common bacteria that make this enzyme are Gram-negative such as Escheri
 <li>Step 3: BLAST analysis to confirm the presence of targeted genes.</li>
 </ul>
 </a>
-<p> Some scripts has been used to compelete the whole genome analysis. </p>
+<p> Some scripts have been used to compelete the whole genome analysis. </p>
 
